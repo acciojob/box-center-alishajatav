@@ -3,9 +3,11 @@ div{
 	width:200px;
 	height:200px;
 	background-color:lightblue;
-	/* border:2px,solid black; */
+	border:solid black; 
 	border-top-width:2px;
-	border-color:black;
+	border-bottom-width:2px;
+	border-left-width:2px;
+	border-right-width:2px;
 }
 span{
 	color:purple;
