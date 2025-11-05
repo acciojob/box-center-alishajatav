@@ -4,12 +4,10 @@ div{
 	height:200px;
 	background-color:lightblue;
 	border:2px,solid black;
+	border-top-width:2px;
 }
 span{
 	display: grid;
   place-items: center; /* centers both horizontally & vertically */
   height: 200px;       
-}
-div{
-	border-top-width:2px;
 }
